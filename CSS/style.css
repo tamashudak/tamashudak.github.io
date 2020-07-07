@@ -1,0 +1,22 @@
+html {
+    background-color: darkgray;
+    background-image: url(/img/nails.webp) ;
+    
+}
+#Header {
+    color: cyan;
+}
+
+.form-style {
+   border: darkred 10px;
+   box-shadow: 3px 3px 10px black;
+   background-color: beige;
+   font-weight: bold;
+
+}
+.form-style input {
+    background-color: lightyellow;
+}
+.form-style textarea {
+    background-color: lightskyblue;
+}
